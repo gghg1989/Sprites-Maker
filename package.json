@@ -8,5 +8,5 @@
     "futures": "2.3.1"
   },
   "main": "./spriter.js",
-  "bin": "./bin/spriter",
+  "bin": "./bin/spriter"
 }
